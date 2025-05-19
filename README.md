@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./assets/is_web_development_good_career.avif" /> 
+    <img src="./assets/is_web_development_good_career.webp" /> 
   <h3>
     <strong>Aquino, Marcos Javier</strong>
   </h3>
